@@ -1,13 +1,16 @@
 # Midjourney
 
-主站: https://www.midjourney.com/
-官方文档: https://docs.midjourney.com/
+Midjourney是一个独立的研究实验室，探索新的思想媒介，扩展人类的想象力。目前主要提供文本生成图像和以图生图功能。
+
+主站: [https://www.midjourney.com/](https://www.midjourney.com/)
+
+官方文档: [https://docs.midjourney.com/](https://docs.midjourney.com/)
 
 ## 事件
 * 2023-05-06： 官方免费频道可以试用了
 
 ## 快速入门
-> 官方文档: https://docs.midjourney.com/docs/quick-start
+> 官方文档: [quick-start](https://docs.midjourney.com/docs/quick-start)
 * 官网下方加入Discord
 * 选择一个newbies-# 频道
 * 输入框输入 /imagine 命令, 输入prompt提示词
@@ -19,12 +22,12 @@
   * Web: 在Midjourney中打开
   
 ## 下一步
-* Prompts: https://docs.midjourney.com/docs/prompts
+* Prompts: [https://docs.midjourney.com/docs/prompts](https://docs.midjourney.com/docs/prompts)
   * 结构
     * 基本结构: Prompt Text: 文本结构
     * 高级提示词： Image Prompts: [图片提示](https://docs.midjourney.com/docs/image-prompts)；Prompt Text: 文本描述, Parameters: [参数](https://docs.midjourney.com/docs/parameter-list)
 * 探索提示，即艺术风格，历史时期，地点，如
-  * 文档参考: https://docs.midjourney.com/docs/explore-prompting
+  * 文档参考: [https://docs.midjourney.com/docs/explore-prompting](https://docs.midjourney.com/docs/explore-prompting)
     * /imagine prompt <any art style> style cat
     * /imagine prompt <style> sketch of a cat
 * /blend 以图生图
