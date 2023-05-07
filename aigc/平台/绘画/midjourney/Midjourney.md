@@ -16,8 +16,7 @@
 * 提升精度后会生成一个图像
   * Make Variations:生成新的变种
   * Beta/Light Upscale Redo: 提升细节重做
-  * Web: 在Midjourney中打开，登陆后到付费界面
-* 试用有25个job, 用完不会更新
+  * Web: 在Midjourney中打开
   
 ## 下一步
 * Prompts: https://docs.midjourney.com/docs/prompts
