@@ -3,6 +3,7 @@
 一个神经网络通过额外的文本来控制扩散模型
 
 github: [https://github.com/lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
+
 web界面项目地址: [https://github.com/Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)
 
 ## Stable Diffusion + ControlNet
