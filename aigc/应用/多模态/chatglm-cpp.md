@@ -1,4 +1,4 @@
-#chatglm.cpp
+# chatglm.cpp
 
 C++实现的ChatGLM-6B和ChatGLM2-6B可以实时在你的MAC上聊天
 
